@@ -20,6 +20,9 @@ Como estudiante, he integrado Anki en mi rutina diaria, pero no ha sido hasta es
 
 Su funcionamiento es aparentemente sencillo: el usuario crea una tarjeta con una pregunta y una respuesta. Al revisarla, el usuario califica su facilidad para recordarla. Lo que ocurre "bajo el capó" es lo fascinante: el software utiliza un algoritmo (generalmente una versión del ([SM-2](https://faqs.ankiweb.net/what-spaced-repetition-algorithm)) para programar la próxima vez que esa tarjeta aparecerá, estirando los intervalos de tiempo justo antes de que el cerebro olvide el dato.
 
+<img width="879" height="876" alt="image" src="https://github.com/user-attachments/assets/e265a330-d7c3-40e8-a9f9-d2aaafa799cf" />
+
+
 ### Análisis de la Hibridación en Anki: Una nueva Gestalt de la Memoria
 
 Al analizar Anki desde la teoría de Manovich, queda claro que estamos ante un caso ejemplar de hibridación. Aquí no hay "multimedia" (aunque la tarjeta pueda llevar un audio o un gif); hay una fusión de lógicas independientes que crean un nuevo lenguaje de interacción con el conocimiento:

@@ -30,6 +30,8 @@ Al analizar Anki desde la teoría de Manovich, queda claro que estamos ante un c
 - **Pedagogía de las fichas físicas:** La lógica del "recuerdo activo" y la fragmentación de la información en unidades discretas.
 - **Base de Datos:** La capacidad del software para tratar cada unidad de conocimiento como un objeto con metadatos (etiquetas, fechas de creación, niveles de dificultad).
 - **Algoritmos Matemáticos Probabilísticos:** Una técnica que antes pertenecía exclusivamente al cálculo estadístico y que ahora se aplica al flujo de la información visual/textual.
+- <img width="1280" height="1297" alt="image" src="https://github.com/user-attachments/assets/479554bc-d3a4-4b28-911e-fd8471b4f0bf" />
+
 
 Desde mi punto de vista, la hibridación en Anki genera una nueva gestalt porque el contenido (la información a aprender) deja de ser estático para volverse **procedural**. En un libro (remediación), el dato está ahí, pasivo. En Anki, el dato "sabe" cuándo debe presentarse ante ti. La lógica del algoritmo ha "colonizado" la lógica de la lectura. Ya no leo una lista; interactúo con un ecosistema de información que se adapta a mi tasa de olvido biológica. Es, como diría el autor, la creación de una propiedad mediática híbrida que no tiene equivalente en el mundo físico.
 
@@ -47,7 +49,7 @@ Esta limitación técnica transformó un acto de dibujo trivial en una necesidad
 
 ### Análisis de la Hibridación en r/place: La creación de la Pintura Social Dinámica
 
-Al observar r/place bajo la óptica de Manovich (2013), queda claro que no estamos ante una "aplicación de dibujo con chat". Lo que sucede aquí es una hibridación profunda donde el medio tradicional del dibujo de mapa de bits (Raster) se ve infectado y transformado por las lógicas de las redes sociales y la gestión de bases de datos masivas.
+Al observar r/place bajo la óptica de Manovich, queda claro que no estamos ante una "aplicación de dibujo con chat". Lo que sucede aquí es una hibridación profunda donde el medio tradicional del dibujo de mapa de bits (Raster) se ve infectado y transformado por las lógicas de las redes sociales y la gestión de bases de datos masivas.
 <img width="1000" height="1000" alt="rplace" src="https://github.com/user-attachments/assets/3ffeaf96-d455-408d-9c1a-5f1417810d12" />
 
 
@@ -59,7 +61,7 @@ En r/place se fusionan tres técnicas de software que anteriormente operaban en 
 
 Desde mi análisis, esta fusión genera una nueva gestalt que prefiero denominar **"Pintura Social Dinámica"**. En la pintura tradicional o incluso en el diseño digital estándar, la estética es el fin último. En r/place, la estética se subordina a la diplomacia y la política. El lienzo deja de ser una superficie de representación para convertirse en un mapa de poder en tiempo real.
 
-Como señala Manovich (2013), cuando las propiedades de un medio se trasladan a otro, el resultado es un híbrido que no se comporta como ninguno de sus progenitores. r/place no se comporta como un cuadro (porque cambia cada segundo) ni como una red social tradicional (porque la interacción no es textual, sino cromática). La "gestalt" aquí es que el píxel deja de ser color para convertirse en **territorio**. Lo que empezo como una broma del dia de los inocentes, la comunidad lo convirtio en un [campo de batalla virtual](https://www.xataka.com/servicios/reddit-place-se-ha-convertido-enorme-campo-batalla-streamers-espanoles-franceses): colocar un punto rojo en la bandera de otro país no es un error gráfico; es una declaración de guerra mediada por software.
+Como señala el autor, cuando las propiedades de un medio se trasladan a otro, el resultado es un híbrido que no se comporta como ninguno de sus progenitores. r/place no se comporta como un cuadro (porque cambia cada segundo) ni como una red social tradicional (porque la interacción no es textual, sino cromática). La "gestalt" aquí es que el píxel deja de ser color para convertirse en **territorio**. Lo que empezo como una broma del dia de los inocentes, la comunidad lo convirtio en un [campo de batalla virtual](https://www.xataka.com/servicios/reddit-place-se-ha-convertido-enorme-campo-batalla-streamers-espanoles-franceses): colocar un punto rojo en la bandera de otro país no es un error gráfico; es una declaración de guerra mediada por software.
 
 ### Valoración personal: El píxel como acto de resistencia colectiva
 

@@ -30,7 +30,8 @@ Al analizar Anki desde la teoría de Manovich, queda claro que estamos ante un c
 - **Pedagogía de las fichas físicas:** La lógica del "recuerdo activo" y la fragmentación de la información en unidades discretas.
 - **Base de Datos:** La capacidad del software para tratar cada unidad de conocimiento como un objeto con metadatos (etiquetas, fechas de creación, niveles de dificultad).
 - **Algoritmos Matemáticos Probabilísticos:** Una técnica que antes pertenecía exclusivamente al cálculo estadístico y que ahora se aplica al flujo de la información visual/textual.
-- <img width="1280" height="1297" alt="image" src="https://github.com/user-attachments/assets/479554bc-d3a4-4b28-911e-fd8471b4f0bf" />
+
+<img width="1280" height="1297" alt="image" src="https://github.com/user-attachments/assets/479554bc-d3a4-4b28-911e-fd8471b4f0bf" />
 
 
 Desde mi punto de vista, la hibridación en Anki genera una nueva gestalt porque el contenido (la información a aprender) deja de ser estático para volverse **procedural**. En un libro (remediación), el dato está ahí, pasivo. En Anki, el dato "sabe" cuándo debe presentarse ante ti. La lógica del algoritmo ha "colonizado" la lógica de la lectura. Ya no leo una lista; interactúo con un ecosistema de información que se adapta a mi tasa de olvido biológica. Es, como diría el autor, la creación de una propiedad mediática híbrida que no tiene equivalente en el mundo físico.

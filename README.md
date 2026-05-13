@@ -1,4 +1,5 @@
-<img width="1280" height="640" alt="github" src="https://github.com/user-attachments/assets/ea469260-baaa-47c5-9cb0-d83ae16caa30" />
+![image](https://github.com/user-attachments/assets/fa8a68f9-4594-4909-a141-67165a952db1)
+
 
 
 # PEC3: El Software como Metamedio e Hibridación
@@ -19,11 +20,15 @@ Bajo su visión, entiendo que el software no es un simple canal, sino un **metam
 ## Caso 1: Anki (Sistema de Repetición Espaciada)
 
 Como estudiante, he integrado Anki en mi rutina diaria, pero no ha sido hasta este análisis cuando he comprendido que no es solo una "app de estudio". Anki es un software basado en el sistema de tarjetas de memoria (flashcards), diseñado para optimizar la retención de información a largo plazo mediante el Sistema de Repetición Espaciada (SRS).
-<img width="1000" height="660" alt="image" src="https://github.com/user-attachments/assets/2089891e-e3d0-4c82-bdb8-999633d82d5b"/>
+![image](https://github.com/user-attachments/assets/2089891e-e3d0-4c82-bdb8-999633d82d5b)
+
+*Ejemplo de escala de tiempo de repetición espaciada.*
 
 Ha cogido bastante [popularidad](https://www.elespanol.com/elandroidelibre/aplicaciones/20260206/anki-app-rosa-rodriguez-ganado-millones-pasapalabra-disponible-gratuitamente/1003744119570_0.html) estos últimos años, su funcionamiento es aparentemente sencillo: el usuario crea una tarjeta con una pregunta y una respuesta. Al revisarla, el usuario califica su facilidad para recordarla. Lo que ocurre "bajo el capó" es lo fascinante: el software utiliza un algoritmo (generalmente una versión del ([SM-2](https://faqs.ankiweb.net/what-spaced-repetition-algorithm)) para programar la próxima vez que esa tarjeta aparecerá, estirando los intervalos de tiempo justo antes de que el cerebro olvide el dato.
 
-<img width="879" height="876" alt="image" src="https://github.com/user-attachments/assets/e265a330-d7c3-40e8-a9f9-d2aaafa799cf" />
+![image](https://github.com/user-attachments/assets/e265a330-d7c3-40e8-a9f9-d2aaafa799cf)
+
+*Ejemplo de la interfaz clásica de Anki.*
 
 
 ### Análisis de la Hibridación en Anki: Una nueva Gestalt de la Memoria
@@ -34,8 +39,9 @@ Al analizar Anki desde la teoría de Manovich, queda claro que estamos ante un c
 - **Base de Datos:** La capacidad del software para tratar cada unidad de conocimiento como un objeto con metadatos (etiquetas, fechas de creación, niveles de dificultad).
 - **Algoritmos Matemáticos Probabilísticos:** Una técnica que antes pertenecía exclusivamente al cálculo estadístico y que ahora se aplica al flujo de la información visual/textual.
 
-<img width="1280" height="1297" alt="image" src="https://github.com/user-attachments/assets/479554bc-d3a4-4b28-911e-fd8471b4f0bf" />
+![image](https://github.com/user-attachments/assets/479554bc-d3a4-4b28-911e-fd8471b4f0bf)
 
+*Escala de colores disponible en r/place, en los posteriores días se aumento dicho número salvo en el día 4, donde se le conocio como "[The Great Whiteout](https://place-wiki.stefanocoding.me/wiki/The_Great_Whiteout) (El Gran Blanqueo): La lógica del software imponiendo el retorno a la tabula rasa y revelando la inercia de la automatización (bots) en el lienzo.*
 
 Desde mi punto de vista, la hibridación en Anki genera una nueva gestalt porque el contenido (la información a aprender) deja de ser estático para volverse **procedural**. En un libro (remediación), el dato está ahí, pasivo. En Anki, el dato "sabe" cuándo debe presentarse ante ti. La lógica del algoritmo ha "colonizado" la lógica de la lectura. Ya no leo una lista; interactúo con un ecosistema de información que se adapta a mi tasa de olvido biológica. Es, como diría el autor, la creación de una propiedad mediática híbrida que no tiene equivalente en el mundo físico.
 
@@ -54,8 +60,9 @@ Esta limitación técnica transformó un acto de dibujo trivial en una necesidad
 ### Análisis de la Hibridación en r/place: La creación de la Pintura Social Dinámica
 
 Al observar r/place bajo la óptica de Manovich, queda claro que no estamos ante una "aplicación de dibujo con chat". Lo que sucede aquí es una hibridación profunda donde el medio tradicional del dibujo de mapa de bits (Raster) se ve infectado y transformado por las lógicas de las redes sociales y la gestión de bases de datos masivas.
-<img width="1000" height="1000" alt="rplace" src="https://github.com/user-attachments/assets/3ffeaf96-d455-408d-9c1a-5f1417810d12" />
+![image](https://github.com/user-attachments/assets/3ffeaf96-d455-408d-9c1a-5f1417810d12)
 
+*Ejemplo de la evolución de r/place*
 
 En r/place se fusionan tres técnicas de software que anteriormente operaban en esferas independientes:
 

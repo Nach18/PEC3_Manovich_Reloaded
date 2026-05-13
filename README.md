@@ -1,4 +1,7 @@
-# PEC Final: El Software como Metamedio e Hibridación
+<img width="1280" height="640" alt="github" src="https://github.com/user-attachments/assets/ea469260-baaa-47c5-9cb0-d83ae16caa30" />
+
+
+# PEC3: El Software como Metamedio e Hibridación
 
 **Estudiante:** Ignacio López Puerto  
 **Asignatura:** Cultura Digital  

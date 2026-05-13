@@ -62,7 +62,7 @@ Esta limitación técnica transformó un acto de dibujo trivial en una necesidad
 Al observar r/place bajo la óptica de Manovich, queda claro que no estamos ante una "aplicación de dibujo con chat". Lo que sucede aquí es una hibridación profunda donde el medio tradicional del dibujo de mapa de bits (Raster) se ve infectado y transformado por las lógicas de las redes sociales y la gestión de bases de datos masivas.
 ![image](https://github.com/user-attachments/assets/3ffeaf96-d455-408d-9c1a-5f1417810d12)
 
-*Ejemplo de la evolución de r/place*
+*Ejemplo de la evolución de r/place: Se pueden apreciar varios elementos que forman, hasta el día de hoy, parte de la cultura de internet (videojuegos, memes, críticas...).*
 
 En r/place se fusionan tres técnicas de software que anteriormente operaban en esferas independientes:
 

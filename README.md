@@ -93,3 +93,4 @@ A través del análisis de Anki y r/place, queda patente que la hibridación de 
 ---
 
 **Declaración legal:** Este ensayo ha sido redactado con el apoyo de la IA generativa Gemini (Google), utilizada específicamente para la estructuración de ideas, corrección sintáctica y exploración de analogías teóricas basadas en el material de estudio proporcionado.
+Copyright (c) 2026 Ignacio López Puerto. Este ensayo y sus contenidos se distribuyen bajo una licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)
